@@ -1,5 +1,3 @@
-# BCA AI & DS Assignments
-
 ## Assignment 1: Descriptive Statistics and Central Tendency
 
 - Calculated mean, median, and mode for bike prices and exam scores.
